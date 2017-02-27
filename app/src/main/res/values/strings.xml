@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StringSplit</string>
+    <string name="enter_sentence">enter sentence</string>
+    <string name="btn_text">button text</string>
+</resources>
