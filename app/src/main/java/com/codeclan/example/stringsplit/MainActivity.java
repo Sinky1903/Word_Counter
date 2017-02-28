@@ -24,8 +24,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onCountButtonClicked(View button) {
-        StringSplitter number = new StringSplitter();
-        String digit = number.countString();
+        StringSplitter number = new StringSplitter("Well where has that gone now");
+        Integer digit = number.countString();
         length.setText(digit);
     }
 }
